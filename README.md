@@ -11,4 +11,4 @@ A fun and interactive command-line version of the classic Hangman game, written 
 To install the package from PyPI, use the following command:
 
 ```bash
-pip install hangman-game-jg
+pip install hangman-jg
