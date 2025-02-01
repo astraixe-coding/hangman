@@ -8,5 +8,5 @@ setup(
     description="A quick and easy way to play hangman!",
     author="Your Name",
     author_email="your_email@example.com",
-    url="https://github.com/yourusername/my_module"
+    url="https://github.com/astraixe-coding/hangman"
 )
