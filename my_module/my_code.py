@@ -75,7 +75,7 @@ def get_hangman(tup):
 
 def hangman(*args):
     word = get_hangman(args)
-    print("MADE BY JACK GRANT : YO THIS YunNig GRIEZZY")
+    print("MADE BY JACK GRANT : YO THIS YunNig GRIEZZY VERSION 2")
     print("Type 'exit' to quit")
     looped_times = 0
     full_word = list(word.lower())
